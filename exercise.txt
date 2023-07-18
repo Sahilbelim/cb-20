@@ -4,5 +4,8 @@ write a program to find area of reqtengle .
 
 write a program to find bmi = weight/height* height .
 write a program to find multiplication , division or module of given number using scanf.
+multiplication table
+
+
 
 

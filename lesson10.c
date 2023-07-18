@@ -5,12 +5,11 @@
 void main()
 {
     int num;
-    num = 11;
+    num = 25;
    
     
 
     printf("%d x 1 = %d \n", num,(num*1));
-    
     printf("%d x 2 = %d \n", num,(num*2));
     printf("%d x 3 = %d \n", num, (num * 3));
     printf("%d x 4 = %d \n", num, (num * 4));
