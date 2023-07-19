@@ -6,6 +6,10 @@ write a program to find bmi = weight/height* height .
 write a program to find multiplication , division or module of given number using scanf.
 multiplication table
 
+-------------------------------if _ else ----------------------------------
 
+1] write a program to fing two triangle area and check who is greeter .
+
+2] write a program to check user give year is leap year or not .
 
 
