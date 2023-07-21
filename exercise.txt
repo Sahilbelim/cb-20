@@ -12,4 +12,9 @@ multiplication table
 
 2] write a program to check user give year is leap year or not .
 
+3 ]odd or even 
 
+4 ]opsitive nagitive 
+
+--------------------------------else - if --------------------------------
+write a program to  given letter is
