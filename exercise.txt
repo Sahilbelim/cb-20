@@ -18,3 +18,7 @@ multiplication table
 
 --------------------------------else - if --------------------------------
 write a program to  given letter is
+
+write a program to findout whether given letter is vowel or not 
+
+Write a programe to findout how many days a month has accpect month from user 
