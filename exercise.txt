@@ -52,3 +52,10 @@ units           price  per unit
 >300 & <400     4
 >400            5
 also calculate 5% percentage energy charge on total bill amount & display total amount
+
+write a program to get two number from user and write in word using swich case.
+
+
+Write a programe to findout how many days a month has accpect month from user 
+
+write a program to findout largest cyliender's volume from 3 cyliender dimensions using nested decision making statement 
