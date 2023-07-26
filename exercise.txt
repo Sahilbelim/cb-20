@@ -59,3 +59,8 @@ write a program to get two number from user and write in word using swich case.
 Write a programe to findout how many days a month has accpect month from user 
 
 write a program to findout largest cyliender's volume from 3 cyliender dimensions using nested decision making statement 
+
+
+Write a programe to findout how many days a month and year has accpect month from user 
+
+write a program to findout largest cyliender's volume from 3 triangle dimensions using nested decision making statement 
