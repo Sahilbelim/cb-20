@@ -64,3 +64,13 @@ write a program to findout largest cyliender's volume from 3 cyliender dimension
 Write a programe to findout how many days a month and year has accpect month from user 
 
 write a program to findout largest cyliender's volume from 3 triangle dimensions using nested decision making statement 
+
+
+
+
+
+Loop
+-------------------------------------------
+0, 1, 3, 6, 10, 15, 21, 28, 36, 45, 55 ... 1000
+
+write a program to print all odd number till 5000
