@@ -5,7 +5,6 @@ void main()
 {
      int count = 0;
      int flash = 6;
-
      while(flash > 0)
      {
           while (count < flash)
