@@ -9,8 +9,8 @@ void main()
      while(number <= 1000)
      {
           printf("%d ", number); // 0
-          number = number + count;
-          count = count + 1;
+          number = number + count; // 10
+          count = count + 1; //5
      } // 2
      // printf("%d ",number);// 1
      // number = number + count ;
