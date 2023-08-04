@@ -47,5 +47,5 @@ void main()
         default:
             printf("it's not vowel ");
     }
-   
+    printf(" good bye ...");
 }
