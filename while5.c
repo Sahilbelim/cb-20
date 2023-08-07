@@ -19,7 +19,6 @@ void main()
      // number = number + count;
      // count = count + 1;
      // printf("%d ",number);// 6
-     // number = number + count;
      // printf("%d ",number);// 10
      // number = number + 5 ;
      // printf("%d ",number);// 15
